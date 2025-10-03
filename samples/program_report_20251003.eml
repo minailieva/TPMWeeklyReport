@@ -1,0 +1,625 @@
+From: Mina Ilieva <mina.ilieva@autodesk.com>
+To: Program Status Recipients <program.status@autodesk.com>
+Subject: Program Status Report - October 3, 2025
+Date: Thu, 03 Oct 2025 12:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0001_01D9F2B3.12345678"
+
+------=_NextPart_000_0001_01D9F2B3.12345678
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+PROGRAM STATUS REPORT
+Generated on October 3, 2025
+
+PROGRAM SUMMARY
+===============
+
+1. SVF Deprecation (PBE-4386)
+   Status: Executing | Assignee: Mina Ilieva | Domain: Other
+   Jira: https://jira.autodesk.com/browse/PBE-4386
+
+2. FY26 M&E Acceleration (PBE-4123)
+   Status: Executing | Assignee: Rebecca Komguep Siyam | Domain: Product Data
+   Jira: https://jira.autodesk.com/browse/PBE-4123
+
+3. FY26 AEC Acceleration (PBE-4124)
+   Status: Executing | Assignee: John LaBarre | Domain: Product Data
+   Jira: https://jira.autodesk.com/browse/PBE-4124
+
+4. FY26 MFG Acceleration (PBE-4125)
+   Status: Executing | Assignee: YAN CHEN | Domain: Product Data
+   Jira: https://jira.autodesk.com/browse/PBE-4125
+
+5. FY26 Universal Data Access (UDA) (PBE-3879)
+   Status: Executing | Assignee: Marisol Delaney | Domain: Product Data
+   Jira: https://jira.autodesk.com/browse/PBE-3879
+
+DETAILED PROGRAM INFORMATION
+============================
+
+SVF DEPRECATION (PBE-4386)
+---------------------------
+Executive Summary Updates - Sept 30 2025
+
+Impacted Teams Status (28)
+- Committed / In Progress -12 (43%)
+- Under Review - 9 (32%)
+- To be evaluated - 4 (14%)
+- Completed SVF2 Upgrade - 3 (11%)
+
+Major Milestones
+- Commitments to be obtained by end of Q3 FY26 - In Progress
+- Complete Implementation of LMVTK2 by March 2026 - In Progress
+
+Contractors' Hiring Status - At Risk
+
+LATAM Breakdown by tech
+- C++: Needed - 6, Accepted offer - 2, Pipeline - 1
+- Java: Needed - 1, Hired - 1
+- SDET: Needed - 1, Hired - 0, Pipeline – 0
+
+Next steps
+- Extending hiring to Canada
+- Internal resources helping out starting 9/8
+
+FY26 M&E ACCELERATION (PBE-4123)
+--------------------------------
+HIGHLIGHTS
+- Flow Asset Management MS3.2 - July 9th in production including PSET Basic Keyword Search
+- Flow Asset Management MS3.3 - Sep 10 in production including PSET Search supporting collections with asset level permissions (ALAC)
+- FY27 asks assessment in progress, Cutline draft share-out to EMS Oct 10, Final cutline decision Oct 31
+
+CUTLINE CHANGES:
+Descoped from FY26:
+- Notifications & Auditing
+- Multi-Region Support
+- Multi-Studio Collaboration
+- Schema editing permissions
+
+Under review to align with FY27 asks:
+- Render farm data access support
+- Monitoring/Metering
+
+NEXT STEPS:
+- Flow Asset Management MVP - Oct 31 in production, on track to include PSET Advanced Search Sorting, Operators and Complex array support; feature freeze Sep 30
+- Search 3.0 Onboarding - Q4
+- Flow Asset Management Private Beta, will include Search assets within folder, Named version & Data Model v2 rollout, Project schema migration tools
+
+RISKS
+- Data Model change: Unknown impact to performance, querying and permissions caused by production deployment of the new Immutable Data Model planned for Asset Management Private Beta.
+
+FY26 AEC ACCELERATION (PBE-4124)
+--------------------------------
+Highlights
+- Public Betas for AEC Data Model Extensibility, Revit Geometry and Model Coordination are Live!
+- Revit Publish via AEC Data Service | Rollout 100% Complete
+
+Q3 Milestones:
+- Regionalization - UK+4 in progress to be completed by end of Q3
+- Public Betas for Geometry, Extensibility and Model Coordination 'go live' for AU - Public Beta support and work towards GA for all Geometry, Extensibility, Model Coordination and Sync will occur in Q3
+- Migration of Revit Publish to AEC Data Service is on track to complete mid Q3
+
+FY26 MFG ACCELERATION (PBE-4125)
+--------------------------------
+Status: ON TRACK
+
+August WINS:
+- Fusion 2.0 Connector Beta released
+- PSET & PDMS QS H2 planning virtual summit concluded successfully
+- Reached a major DB migration milestone, 2 PM hubs migrated successfully in PROD Real.
+
+Focus:
+- Working on ETAs for New Asks from Virtual Summit to be evaluated
+
+CUTLINE CHANGES: (New Airtable Asks)
+New QS Asks for Q3/Q4. More items are expected to be added to Airtable by PDMS teams, some will be pertinent to the GAIA/Granular data track (discussed during the virtual summit in Aug)
+
+Risks:
+- Program risks captured, interlocks in place for items identified "At Risk"
+
+Summary:
+- Working on R2.2 & R3 features
+- DB Migration support
+
+NEXT STEPS:
+- QuickSilver R2.2 Nov. & R3 Jan. releases
+- FY27 QuickSilver PSET & PDMS joint planning in October
+
+FY26 UNIVERSAL DATA ACCESS (UDA) (PBE-3879)
+-------------------------------------------
+UDA is currently on track, with no open risks.
+
+AUGUST FY26 Update
+
+Highlights for August:
+- AEC File+ Integration with L2FS
+- AI Experimentation with Granular Search and Details Panel
+
+Next Up:
+AEC:
+- Docs Base: Onboarding in Desktop products
+- Search: For AutoCAD and Civ3D
+- UDA Data Picker in ACC for Support Files
+
+PDMS: Gap Analysis between app home and fusion Data Panel
+
+---
+
+View Online: https://wiki.autodesk.com/pages/viewpage.action?pageId=2983447382
+
+------=_NextPart_000_0001_01D9F2B3.12345678
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Program Status Report - October 3, 2025</title>
+    <!--[if mso]>
+    <noscript>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:AllowPNG/>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+    </noscript>
+    <![endif]-->
+    <style type="text/css">
+        /* Reset and base styles */
+        body, table, td, p, a, li, blockquote {
+            -webkit-text-size-adjust: 100% !important;
+            -ms-text-size-adjust: 100% !important;
+            -webkit-font-smoothing: antialiased !important;
+        }
+        
+        body {
+            background-color: #f4f4f4 !important;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Arial, sans-serif !important;
+            font-size: 14px !important;
+            line-height: 1.6 !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            width: 100% !important;
+            height: 100% !important;
+        }
+        
+        table {
+            border-collapse: collapse !important;
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        
+        img {
+            border: 0 !important;
+            height: auto !important;
+            line-height: 100% !important;
+            outline: none !important;
+            text-decoration: none !important;
+        }
+        
+        .email-container {
+            max-width: 600px !important;
+            margin: 0 auto !important;
+            background-color: #ffffff !important;
+        }
+        
+        .header-table {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%) !important;
+            background-color: #1e3c72 !important; /* Fallback for Outlook */
+            width: 100% !important;
+        }
+        
+        .header-cell {
+            padding: 30px 20px !important;
+            text-align: center !important;
+        }
+        
+        .header-title {
+            color: #ffffff !important;
+            font-size: 28px !important;
+            font-weight: 300 !important;
+            margin: 0 0 10px 0 !important;
+            line-height: 1.2 !important;
+        }
+        
+        .header-date {
+            color: #e6f2ff !important;
+            font-size: 16px !important;
+            font-weight: 300 !important;
+            margin: 0 !important;
+        }
+        
+        .content-wrapper {
+            padding: 30px 20px !important;
+        }
+        
+        .section-title {
+            color: #1e3c72 !important;
+            font-size: 22px !important;
+            font-weight: 600 !important;
+            margin: 0 0 20px 0 !important;
+            padding-bottom: 8px !important;
+            border-bottom: 3px solid #2a5298 !important;
+        }
+        
+        .summary-table {
+            width: 100% !important;
+            border-collapse: collapse !important;
+            margin: 0 0 30px 0 !important;
+            background-color: #ffffff !important;
+        }
+        
+        .summary-table th {
+            background-color: #f8f9fa !important;
+            color: #1e3c72 !important;
+            padding: 12px 8px !important;
+            text-align: left !important;
+            font-weight: 600 !important;
+            font-size: 13px !important;
+            border-bottom: 2px solid #e0e0e0 !important;
+        }
+        
+        .summary-table td {
+            padding: 12px 8px !important;
+            border-bottom: 1px solid #e0e0e0 !important;
+            font-size: 13px !important;
+            vertical-align: top !important;
+        }
+        
+        .program-link {
+            color: #2a5298 !important;
+            text-decoration: none !important;
+            font-weight: 600 !important;
+        }
+        
+        .jira-link {
+            color: #0052cc !important;
+            text-decoration: none !important;
+            font-weight: 500 !important;
+            padding: 2px 6px !important;
+            border-radius: 3px !important;
+            background-color: #e6f3ff !important;
+            font-size: 12px !important;
+        }
+        
+        .status-badge {
+            background-color: #4caf50 !important;
+            color: #ffffff !important;
+            padding: 4px 8px !important;
+            border-radius: 16px !important;
+            font-size: 11px !important;
+            font-weight: 600 !important;
+            text-transform: uppercase !important;
+        }
+        
+        .program-section {
+            margin: 0 0 25px 0 !important;
+            padding: 20px !important;
+            background-color: #f8f9ff !important;
+            border-left: 4px solid #2a5298 !important;
+            border-radius: 0 6px 6px 0 !important;
+        }
+        
+        .program-title {
+            color: #1e3c72 !important;
+            font-size: 18px !important;
+            font-weight: 600 !important;
+            margin: 0 0 10px 0 !important;
+        }
+        
+        .program-meta {
+            color: #666666 !important;
+            font-size: 13px !important;
+            margin: 0 0 15px 0 !important;
+        }
+        
+        .executive-summary {
+            line-height: 1.7 !important;
+            font-size: 14px !important;
+        }
+        
+        .footer-section {
+            background-color: #f8f9fa !important;
+            padding: 20px !important;
+            text-align: center !important;
+            color: #666666 !important;
+            font-size: 13px !important;
+        }
+        
+        /* Mobile Responsive */
+        @media only screen and (max-width: 600px) {
+            .email-container {
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+            
+            .content-wrapper {
+                padding: 20px 15px !important;
+            }
+            
+            .header-title {
+                font-size: 24px !important;
+            }
+            
+            .summary-table th,
+            .summary-table td {
+                padding: 8px 5px !important;
+                font-size: 12px !important;
+            }
+            
+            .program-section {
+                padding: 15px !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <!-- Header -->
+        <table class="header-table" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td class="header-cell">
+                    <h1 class="header-title">Program Status Report</h1>
+                    <p class="header-date">Generated on October 3, 2025</p>
+                </td>
+            </tr>
+        </table>
+        
+        <!-- Content -->
+        <div class="content-wrapper">
+            <!-- Summary Section -->
+            <h2 class="section-title">Program Summary</h2>
+            <table class="summary-table" cellpadding="0" cellspacing="0" border="0">
+                <thead>
+                    <tr>
+                        <th>Program</th>
+                        <th>Ticket</th>
+                        <th>Status</th>
+                        <th>Assignee</th>
+                        <th>Domain</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="#svf-deprecation" class="program-link">SVF Deprecation</a></td>
+                        <td><a href="https://jira.autodesk.com/browse/PBE-4386" class="jira-link">PBE-4386</a></td>
+                        <td><span class="status-badge">Executing</span></td>
+                        <td>Mina Ilieva</td>
+                        <td>Other</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#me-acceleration" class="program-link">FY26 M&E Acceleration</a></td>
+                        <td><a href="https://jira.autodesk.com/browse/PBE-4123" class="jira-link">PBE-4123</a></td>
+                        <td><span class="status-badge">Executing</span></td>
+                        <td>Rebecca Komguep Siyam</td>
+                        <td>Product Data</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#aec-acceleration" class="program-link">FY26 AEC Acceleration</a></td>
+                        <td><a href="https://jira.autodesk.com/browse/PBE-4124" class="jira-link">PBE-4124</a></td>
+                        <td><span class="status-badge">Executing</span></td>
+                        <td>John LaBarre</td>
+                        <td>Product Data</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#mfg-acceleration" class="program-link">FY26 MFG Acceleration</a></td>
+                        <td><a href="https://jira.autodesk.com/browse/PBE-4125" class="jira-link">PBE-4125</a></td>
+                        <td><span class="status-badge">Executing</span></td>
+                        <td>YAN CHEN</td>
+                        <td>Product Data</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#uda" class="program-link">FY26 Universal Data Access (UDA)</a></td>
+                        <td><a href="https://jira.autodesk.com/browse/PBE-3879" class="jira-link">PBE-3879</a></td>
+                        <td><span class="status-badge">Executing</span></td>
+                        <td>Marisol Delaney</td>
+                        <td>Product Data</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <!-- Detailed Sections -->
+            <h2 class="section-title">Detailed Program Information</h2>
+            
+            <!-- SVF Deprecation -->
+            <div class="program-section" id="svf-deprecation">
+                <h3 class="program-title">SVF Deprecation</h3>
+                <p class="program-meta">
+                    <strong>Ticket:</strong> <a href="https://jira.autodesk.com/browse/PBE-4386" class="jira-link">PBE-4386</a> | 
+                    <strong>Status:</strong> <span class="status-badge">Executing</span> | 
+                    <strong>Assignee:</strong> Mina Ilieva | 
+                    <strong>Domain:</strong> Other
+                </p>
+                <div class="executive-summary">
+                    <h4>Executive Summary Updates - Sept 30 2025</h4>
+                    <h5>Impacted Teams Status (28)</h5>
+                    <ul>
+                        <li>Committed / In Progress -12 (43%)</li>
+                        <li>Under Review - 9 (32%)</li>
+                        <li>To be evaluated - 4 (14%)</li>
+                        <li>Completed SVF2 Upgrade - 3 (11%)</li>
+                    </ul>
+                    
+                    <h5>Major Milestones</h5>
+                    <ul>
+                        <li>Commitments to be obtained by end of Q3 FY26 - In Progress</li>
+                        <li>Complete Implementation of LMVTK2 by March 2026 - In Progress</li>
+                    </ul>
+                    
+                    <h5>Contractors' Hiring Status🟨 At Risk</h5>
+                    <p><strong>LATAM Breakdown by tech</strong></p>
+                    <ul>
+                        <li>C++: Needed - 6, Accepted offer - 2, Pipeline - 1</li>
+                        <li>Java: Needed - 1, Hired - 1</li>
+                        <li>SDET: Needed - 1, Hired - 0, Pipeline – 0</li>
+                    </ul>
+                    
+                    <p><strong>Next steps</strong></p>
+                    <ul>
+                        <li>Extending hiring to Canada</li>
+                        <li>Internal resources helping out starting 9/8</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- M&E Acceleration -->
+            <div class="program-section" id="me-acceleration">
+                <h3 class="program-title">FY26 M&E Acceleration</h3>
+                <p class="program-meta">
+                    <strong>Ticket:</strong> <a href="https://jira.autodesk.com/browse/PBE-4123" class="jira-link">PBE-4123</a> | 
+                    <strong>Status:</strong> <span class="status-badge">Executing</span> | 
+                    <strong>Assignee:</strong> Rebecca Komguep Siyam | 
+                    <strong>Domain:</strong> Product Data
+                </p>
+                <div class="executive-summary">
+                    <p><strong>HIGHLIGHTS</strong></p>
+                    <ul>
+                        <li>✅ Flow Asset Management MS3.2 - July 9th in production including PSET Basic Keyword Search</li>
+                        <li>✅ Flow Asset Management MS3.3 - Sep 10 in production including PSET Search supporting collections with asset level permissions (ALAC)</li>
+                        <li>FY27 asks assessment in progress, Cutline draft share-out to EMS Oct 10, Final cutline decision Oct 31</li>
+                    </ul>
+                    
+                    <p><strong>CUTLINE CHANGES:</strong></p>
+                    <p>Descoped from FY26:</p>
+                    <ul>
+                        <li>Notifications & Auditing</li>
+                        <li>Multi-Region Support</li>
+                        <li>Multi-Studio Collaboration</li>
+                        <li>Schema editing permissions</li>
+                    </ul>
+                    
+                    <p>Under review to align with FY27 asks:</p>
+                    <ul>
+                        <li>Render farm data access support</li>
+                        <li>Monitoring/Metering</li>
+                    </ul>
+                    
+                    <p><strong>NEXT STEPS:</strong></p>
+                    <ul>
+                        <li>Flow Asset Management MVP - Oct 31 in production, on track to include PSET Advanced Search Sorting, Operators and Complex array support; feature freeze Sep 30</li>
+                        <li>Search 3.0 Onboarding - Q4 (No feature change)</li>
+                        <li>Flow Asset Management Private Beta, will include Search assets within folder, Named version & Data Model v2 rollout, Project schema migration tools</li>
+                    </ul>
+                    
+                    <p><strong>RISKS</strong></p>
+                    <p>⚠️ Data Model change: Unknown impact to performance, querying and permissions caused by production deployment of the new Immutable Data Model planned for Asset Management Private Beta. Mitigate in Q3 by PSET & EMS teams planning to assess impact end-to-end using production data sets (e.g., Moana Island).</p>
+                </div>
+            </div>
+            
+            <!-- AEC Acceleration -->
+            <div class="program-section" id="aec-acceleration">
+                <h3 class="program-title">FY26 AEC Acceleration</h3>
+                <p class="program-meta">
+                    <strong>Ticket:</strong> <a href="https://jira.autodesk.com/browse/PBE-4124" class="jira-link">PBE-4124</a> | 
+                    <strong>Status:</strong> <span class="status-badge">Executing</span> | 
+                    <strong>Assignee:</strong> John LaBarre | 
+                    <strong>Domain:</strong> Product Data
+                </p>
+                <div class="executive-summary">
+                    <p><strong>Highlights</strong></p>
+                    <ul>
+                        <li><strong>Public Betas for AEC Data Model Extensibility, Revit Geometry and Model Coordination are Live!</strong></li>
+                        <li>Revit Publish via AEC Data Service | Rollout 100% Complete</li>
+                    </ul>
+                    
+                    <p><strong>Q3 Milestones:</strong></p>
+                    <ul>
+                        <li>Regionalization - UK+4 in progress to be completed by end of Q3</li>
+                        <li>Public Betas for Geometry, Extensibility and Model Coordination 'go live' for AU - Public Beta support and work towards GA for all Geometry, Extensibility, Model Coordination and Sync will occur in Q3</li>
+                        <li>Migration of Revit Publish to AEC Data Service is on track to complete mid Q3</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- MFG Acceleration -->
+            <div class="program-section" id="mfg-acceleration">
+                <h3 class="program-title">FY26 MFG Acceleration</h3>
+                <p class="program-meta">
+                    <strong>Ticket:</strong> <a href="https://jira.autodesk.com/browse/PBE-4125" class="jira-link">PBE-4125</a> | 
+                    <strong>Status:</strong> <span class="status-badge">Executing</span> | 
+                    <strong>Assignee:</strong> YAN CHEN | 
+                    <strong>Domain:</strong> Product Data
+                </p>
+                <div class="executive-summary">
+                    <p>Status: <strong style="color: #00875a;">ON TRACK</strong></p>
+                    
+                    <p><strong style="color: #00875a;">August WINS:</strong></p>
+                    <ul>
+                        <li>Fusion 2.0 Connector Beta released</li>
+                        <li>PSET & PDMS QS H2 planning virtual summit concluded successfully</li>
+                        <li>Reached a major DB migration milestone, 2 PM hubs migrated successfully in PROD Real.</li>
+                    </ul>
+                    
+                    <p><strong>Focus:</strong></p>
+                    <ul>
+                        <li>Working on ETAs for New Asks from Virtual Summit to be evaluated</li>
+                    </ul>
+                    
+                    <p><strong>CUTLINE CHANGES: (New Airtable Asks)</strong></p>
+                    <p>New QS Asks for Q3/Q4. More items are expected to be added to Airtable by PDMS teams, some will be pertinent to the GAIA/Granular data track (discussed during the virtual summit in Aug)</p>
+                    
+                    <p><strong style="color: #ffab00;">Risks:</strong></p>
+                    <p>Program risks captured, interlocks in place for items identified "At Risk"</p>
+                    
+                    <p><strong>Summary:</strong></p>
+                    <ul>
+                        <li>Working on R2.2 & R3 features</li>
+                        <li>DB Migration support</li>
+                    </ul>
+                    
+                    <p><strong>NEXT STEPS:</strong></p>
+                    <ul>
+                        <li>QuickSilver R2.2 Nov. & R3 Jan. releases</li>
+                        <li>FY27 QuickSilver PSET & PDMS joint planning in October</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- UDA -->
+            <div class="program-section" id="uda">
+                <h3 class="program-title">FY26 Universal Data Access (UDA)</h3>
+                <p class="program-meta">
+                    <strong>Ticket:</strong> <a href="https://jira.autodesk.com/browse/PBE-3879" class="jira-link">PBE-3879</a> | 
+                    <strong>Status:</strong> <span class="status-badge">Executing</span> | 
+                    <strong>Assignee:</strong> Marisol Delaney | 
+                    <strong>Domain:</strong> Product Data
+                </p>
+                <div class="executive-summary">
+                    <p>UDA is currently on track, with no open risks.</p>
+                    
+                    <p><strong>AUGUST FY26 Update</strong></p>
+                    
+                    <p>Highlights for August:</p>
+                    <ul>
+                        <li>AEC File+ Integration with L2FS</li>
+                        <li>AI Experimentation with Granular Search and Details Panel</li>
+                    </ul>
+                    
+                    <p>Next Up:</p>
+                    <p><strong>AEC:</strong></p>
+                    <ul>
+                        <li>Docs Base: Onboarding in Desktop products</li>
+                        <li>Search: For AutoCAD and Civ3D</li>
+                        <li>UDA Data Picker in ACC for Support Files</li>
+                    </ul>
+                    
+                    <p><strong>PDMS:</strong> Gap Analysis between app home and fusion Data Panel</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer-section">
+            <p>This report was automatically generated from Jira data on October 3, 2025</p>
+            <p><strong>📄 View Online:</strong> <a href="https://wiki.autodesk.com/pages/viewpage.action?pageId=2983447382" style="color: #2a5298; text-decoration: none;">Confluence Page Version</a></p>
+            <p>For questions or updates, please contact the program assignees listed above.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+------=_NextPart_000_0001_01D9F2B3.12345678--
